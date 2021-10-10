@@ -1,0 +1,44 @@
+#sair{
+    display: block;
+    float: right;
+    margin-top: 2%;
+    margin-right: 46%;
+    margin-left: 46%;
+    width: 8%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}#sair:hover{
+     background-color: #67b99a;
+     box-shadow: 1px 1px 1px 1px black;
+}
+#tabUsu{
+    margin-top: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #403d39;
+    box-shadow: 2px 2px 2px 2px black;
+}
+#titulo{
+    float: left;
+    margin-top: 1%;
+    margin-left: 2%;
+    color: #ccc5b9;
+}
+#btNovo{
+    float: right;
+    margin-top: 1%;
+    margin-right: 2%;
+    background-color: #ccc5b9;
+    color: black;
+    font-size: 18px;
+    box-shadow: 1px 1px 1px 1px black;
+}#btNovo:hover{
+    background-color: #67b99a;
+    box-shadow: 2px 2px 2px 2px black;
+}

@@ -1,0 +1,32 @@
+#titulo{
+    margin-top: 1.5%;
+    margin-left: 5%;
+    width: 50%;
+    float: left;
+}
+#voltar{
+    display: block;
+    float: right;
+    padding: 4px;
+    width: 4cm;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin-right: 5%;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5%;
+}#voltar:hover{
+     background-color: #67b99a;
+     border-radius: 10px 10px 0px 0px;
+}
+#infos{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 2%;
+    background-color: #67b99a;
+}

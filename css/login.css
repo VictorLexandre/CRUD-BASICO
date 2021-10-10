@@ -1,0 +1,22 @@
+#titulo{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+#fundo{
+    background-color: #354f52;
+    width: 35%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+#form{
+    background-color: #67b99a;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    box-shadow: 2px 2px 2px 2px black;
+}
